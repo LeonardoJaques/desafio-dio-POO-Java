@@ -6,13 +6,25 @@ import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Set;
 
+/**
+ * Bootcamp is a class that represents a bootcamp in the system.
+ * It contains information about the bootcamp's name, description, start and end dates, the developers subscribed to it, and the contents of the bootcamp.
+ */
 public class Bootcamp {
+    // The name of the bootcamp
     private String nome;
+    // The description of the bootcamp
     private String descricao;
+    // The start date of the bootcamp, which is the current date
     private final LocalDate dataInicial = LocalDate.now();
+    // The end date of the bootcamp, which is 45 days after the start date
     private final LocalDate dataFinal = dataInicial.plusDays(45);
+    // The developers subscribed to the bootcamp
     private Set<Dev> devsInscritos = new HashSet<>();
+    // The contents of the bootcamp
     private Set<Conteudo> conteudos = new LinkedHashSet<>();
+
+    // Getters and setters for the bootcamp's name, description, start and end dates, subscribed developers, and contents
 
     public String getNome() {
         return nome;
@@ -53,6 +65,8 @@ public class Bootcamp {
     public void setConteudos(Set<Conteudo> conteudos) {
         this.conteudos = conteudos;
     }
+
+    // Overridden equals and hashCode methods for the Bootcamp class
 
     @Override
     public boolean equals(Object o) {

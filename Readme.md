@@ -22,24 +22,37 @@
 </p>
 
 ----
+<p align="center">
+<img src="https://www.plantuml.com/plantuml/png/XP1DJiCm48NtESNW5L2rm0qA2OWkg5XqmNP8HcKasuF6TWH2d8O51-d5Y9euvKSHo_Tc_DutNeQ86fEpnL5y8aVWsCVNegWjXW1N8h56zmnl1S0SAeouybmpsb7Vi1_KMXprDeLQUVUv-v1Eps3bEqqjwLfouF79VbAYhPD5tKX4-v3TwnT-P2sJ1WcTzPvfxiX7KSOmu6mu9Yj_AZDPXVd1ZwvzpPXPKJl4PVuPtAjibHhMxulcCdBB3JOKpdeq0nZWuFRc_sWbwXPlHN4ARFnqSs5WFWTplbYSciFrKmlTAPEptvZ5adoJdFq2" alt="Image Alt Text" width="500">
+</p>
+----
 
 ## 📚 Paradigma de Programação Orientada a Objetos (POO)
 
-A visão da Orientação a Objetos (OO) é a de um mundo de objetos que interagem entre si. Este paradigma é um modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre **classes**, **atributos**, **métodos**, **objetos**, entre outros.
+A visão da Orientação a Objetos (OO) é a de um mundo de objetos que interagem entre si. Este paradigma é um modelo de
+análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e
+interação entre **classes**, **atributos**, **métodos**, **objetos**, entre outros.
 
 **Quatro pilares principais sustentam o POO:**
 
-**1. Abstração:**  A capacidade de representar um objeto real com suas características essenciais, ignorando detalhes irrelevantes. Por exemplo, um carro pode ser abstraído como um objeto com atributos como cor, marca e modelo, sem levar em conta detalhes da mecânica.
+**1. Abstração:**  A capacidade de representar um objeto real com suas características essenciais, ignorando detalhes
+irrelevantes. Por exemplo, um carro pode ser abstraído como um objeto com atributos como cor, marca e modelo, sem levar
+em conta detalhes da mecânica.
 
-**2. Encapsulamento:**  O agrupamento de dados (atributos) e funcionalidades (métodos) relacionados dentro de uma classe, escondendo informações internas para proteger a integridade do objeto. Permite modificar o código interno sem afetar outros módulos do sistema.
+**2. Encapsulamento:**  O agrupamento de dados (atributos) e funcionalidades (métodos) relacionados dentro de uma
+classe, escondendo informações internas para proteger a integridade do objeto. Permite modificar o código interno sem
+afetar outros módulos do sistema.
 
-**3. Herança:** A capacidade de criar novas classes (subclasses) que herdam características e comportamentos de classes existentes (superclasses). Isso promove a reutilização de código e facilita a criação de hierarquias de objetos.
+**3. Herança:** A capacidade de criar novas classes (subclasses) que herdam características e comportamentos de classes
+existentes (superclasses). Isso promove a reutilização de código e facilita a criação de hierarquias de objetos.
 
-**4. Polimorfismo:** A capacidade de um mesmo método se comportar de maneiras diferentes em diferentes classes. Permite realizar tarefas de maneira mais flexível, adaptando o comportamento a cada contexto.
+**4. Polimorfismo:** A capacidade de um mesmo método se comportar de maneiras diferentes em diferentes classes. Permite
+realizar tarefas de maneira mais flexível, adaptando o comportamento a cada contexto.
 
 **Em resumo:**
 
-O paradigma de Programação Orientada a Objetos (POO) busca aproximar o mundo real do virtual através da modelagem de objetos. Os quatro pilares da OO - Abstração, Encapsulamento, Herança e Polimorfismo -  permitem a criação de sistemas robustos, flexíveis e fáceis de manter.
-
+O paradigma de Programação Orientada a Objetos (POO) busca aproximar o mundo real do virtual através da modelagem de
+objetos. Os quatro pilares da OO - Abstração, Encapsulamento, Herança e Polimorfismo - permitem a criação de sistemas
+robustos, flexíveis e fáceis de manter.
 
 Realizado por [Leonardo Jaques](https://www.linkedin.com/in/leonardojaques-dev).
