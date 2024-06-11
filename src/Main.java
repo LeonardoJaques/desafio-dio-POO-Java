@@ -11,19 +11,18 @@ public class Main {
 
         curso1.setTitulo("Java Básico");
         curso1.setDescricao("Descrição do curso");
-        curso1.setDuracaoHoras(8);
+        curso1.setCargaHoraria(8);
 
         Curso curso2 = new Curso();
 
         curso2.setTitulo("Java Avançado");
         curso2.setDescricao("Descrição do curso");
-        curso2.setDuracaoHoras(12);
+        curso2.setCargaHoraria(12);
 
         Mentoria mentoria = new Mentoria();
 
         mentoria.setTitulo("Mentoria de Java");
         mentoria.setTitulo("Descrição da mentoria");
-        mentoria.setDuracaoHoras(2);
         mentoria.setData(LocalDate.now());
 
 
